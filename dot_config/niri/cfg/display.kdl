@@ -3,9 +3,9 @@
 // You will have to remove "/-" and edit it before it takes effect.
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Outputs
 
-/- output "DP-1" {
-    mode "2560x1440@144" // Set resolution and refresh rate
-    scale 1 // No scaling (use 2 for HiDPI)
+output "Samsung Display Corp. 0x4201 Unknown" {
+    position x=0 y=0
+    scale 2 // No scaling (use 2 for HiDPI)
 }
 
 output "LG Electronics 27GL850 910NTYTB7650" {

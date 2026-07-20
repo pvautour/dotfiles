@@ -1,5 +1,6 @@
 #
 # ~/.bash_profile
 #
+export PATH=$PATH:/home/pascalv/.cargo/bin
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc

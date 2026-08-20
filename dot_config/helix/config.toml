@@ -1,0 +1,7 @@
+theme = "base16_transparent"
+
+[keys.normal.space]
+i = ":toggle soft-wrap.enable"
+
+[editor]
+bufferline = "multiple"

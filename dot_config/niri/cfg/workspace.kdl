@@ -1,0 +1,10 @@
+// Naming the workspaces prevents them from being destroyed when they are empty.
+workspace "desktop"
+workspace "browser"
+workspace "terminal"
+workspace "4"
+workspace "5"
+workspace "6"
+workspace "7"
+workspace "8"
+workspace "music" 

@@ -12,6 +12,7 @@ alias td="helix /home/pascalv/Sync/todo.md"
 alias mn="helix /home/pascalv/Sync/quicknote.md"
 alias za=zathura
 alias p=python
+alias t="erd -L 2"
 
 # overwrite greeting
 # potentially disabling fastfetch

@@ -2,6 +2,7 @@ theme = "base16_transparent"
 
 [keys.normal.space]
 i = ":toggle soft-wrap.enable"
+q = ":buffer-close"
 
 [editor]
 bufferline = "multiple"
